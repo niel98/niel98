@@ -1,6 +1,4 @@
 # 💫 About Me:
-Here's a more professional and polished version of your GitHub profile summary:
-
 ---
 
 I am a backend software engineer at a fintech startup, focused on building scalable and efficient solutions that streamline global payments. With a passion for developing impactful technology, I am particularly interested in collaborating on innovative projects that address challenges in Africa and beyond.
@@ -12,9 +10,6 @@ Feel free to reach out if you have questions about backend development, particul
 In my spare time, I enjoy playing video games like FIFA and watching movies.
 
 ---
-
-Let me know if you'd like any further changes!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niel_morphius) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moses-daniel-kwaknat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Moses Daniel) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mosesdaniel201798) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Moses Daniel Kwaknat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/niel_morphius) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:9200287) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/niel_morphius) 
